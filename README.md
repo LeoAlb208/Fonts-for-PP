@@ -6,6 +6,9 @@ Are you tired of seeing **"Click to download"** and not being able to instantly 
 
 This repository solves that by letting you **instantly preview all fonts** without manually clicking each one.  
 
+**Please note**: depending on when you download this folder, some fonts might be missing or newly added.  
+This is because Microsoft may update the list of available Cloud Fonts over time.  
+
 ## ✅ What This Fixes
 
 - PowerPoint not showing font previews  
@@ -34,6 +37,11 @@ Don't want to download the whole repo?
 ## 🛠️ Notes  
 
 - Tested on PowerPoint for Microsoft 365 (Windows 11).  
+- This folder contains the cloud font previews available at the time of publishing.  
+  Microsoft occasionally updates its Cloud Fonts collection, so:  
+  - Some **older fonts** might have been added since your download.  
+  - Some **newer fonts** may not be included yet.  
+- If a specific font preview is still missing, you need to manually select it in PowerPoint — it will be downloaded and cached automatically.  
 
 ---
 
