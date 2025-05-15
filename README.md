@@ -29,6 +29,7 @@ This repo contains **all Cloud Fonts** so that you don't have to manually select
 Don't want to download the whole repo?  
 
 👉 [Click here to download only the `Fonts` folder](https://download-directory.github.io/?url=https://github.com/LeoAlb208/PowerPoint-Font-Preview-Fix/tree/main/Fonts)  
+**It might take some time**. If you're wondering if it's downloading... Don't worry! It is.  
 
 ## 🛠️ Notes  
 
