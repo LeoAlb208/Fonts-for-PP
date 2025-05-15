@@ -1,4 +1,4 @@
-# Fix PowerPoint Font Preview (No More "Download Font" Issues!)  
+# Fix PowerPoint Font Preview
 
 ![PowerPoint font preview issue](assets/preview.png)  
 
